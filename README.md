@@ -23,3 +23,4 @@ This sample includes:
 * Server:  Function app that calls the Azure.Search.Documents query a search index.: It leverages the [Azure SDK for Javascript/Typescript for Cognitive Search](https://www.npmjs.com/package/@azure/search-documents).
 
 This sample is designed to be deployed as an [Azure Static Web app](https://docs.microsoft.com/azure/static-web-apps/).
+Playing around with Azure Functions and Webhooks
